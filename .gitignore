@@ -24,3 +24,5 @@ yarn-error.log
 /venv
 /scripts.ocr-dg-google-vision.json
 /scripts.ocr-dg-google-vision-exp.json
+scripts.ocr-dg-google-vision.json
+scripts.ocr-dg-google-vision-exp.json
