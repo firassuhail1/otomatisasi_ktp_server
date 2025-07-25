@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "intrepid-league-466105-r1",
+  "private_key_id": "ab170d9213a7d039934a0112b86cc11deab71dee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUhoVY0SvlD37q\nMX0/Rf5uEWrlxDUHPYH36WGPjYdYQU7RNKDZZhoA8l4LCtuUcX2uR8/l4tj68IUv\ny0s2IVYz7gTLSzUcNAB5bXhYs7GdB4Zds6shEYbkrXGUyFaD1bv3iC1MBQiBkdDu\n7ZG9mi67P74yX04JSa7UVW9BjaQHkXJWZ2GQJdL9jIaaYXMfeDVJ3O5Za0xRAPZe\nvSZyEHAGm3kBsIiPMlhmZ0I+tAPvVPG5y7rZs7dIZXqoJ9mhevxP/7/eUr3XES4/\nbmuEa+CDhDBCTwmGbh2kgOcuxWYIoEuw+0x3JYjN/3qO028vJPvO1WgwnRtCBVky\nR6YGfv61AgMBAAECggEAFPBTB8azZL9Wwd74vI0aVbucYaiT3kGwWzo6cBHAkTNh\n0HIWNBfmFhiVJALjmm2WjZWfrFXbB6OVbzu+jnLMM5V8dQmVAvUc1QGXHBA3O79W\nFMsx1r9hEEeYceR9d+gPsBGxaxxxisy7ExgIeh2stWbC4liXyIzr+hDSVsBIbe1/\nGMbj8+/WbUD946Qx7byDZc4VEwzvdNBW+oUfsK3/YL9dm2d/TemZJmP4regNE7MJ\n+XwOnT1uQVtaB8F4usqQGbdzyx5ahj4S9g7Kdh4vUpkCwMPjNB/gCbQiCrKkHZ94\n/mZjzqEuzmXcA6/BUApFS4FuaUVs6tzUZk8PtN1W+QKBgQDJ6O2ppWIr7quFLN4E\nonO7NxZB9CEvIZ0ksvieptEo21GN49mfC5fMmW24LbZMgTbvhsVOPcT8M5Mv0pOH\nWcqfGhoTKg2OzaGNEHs47FeBNaeeAS/z9CedVFHeZH1AKoJhiWydRYPTeVFsDFuV\nmFr+PgOMKO1F/QMxEnbI9Y3IjQKBgQC8UHc2H9EaAjY1051WJh0D8F0KXP2gUArZ\nDVTK6GlUfWMqEXxe8xF5N0eTnXh2fylJrZVE/EyeepUk5/o0I/OWHyeK+1KxvTrQ\nEYKkCiDJfJwCWItm8vd+oLZBffnn8nO1eLXEettgit1wiCskBmTgCs+vzXok0yLU\ntnqBLNCoyQKBgGHihrWj9AAQaR7bLZdZmnm8rxGyZRQQW7qa+WUQwn3oNZVwTOSK\nHkGWcFbF8ocMbbGZyLWxxHnwFv8sO1F2+oA/izyXOpNspVFaGCL0kUeW13gGY1UF\nnN7tLfN/DCm7chIPKZTlSo+PVSXop83SWuq+7cFZZg50JsP3i5bJVL9RAoGAUDMY\nwjVEsYX1nnD0Vgc/XjkU9t/pqEfOhugVj6DxkukfvX/a7vkoHO69DhIHhrfbVqSV\nqN6mpuvf7urY9THGgM3d4mPssQO9M3XxpHknw4fNTXZ2UC7z1rsNQ9EqCG2Kd+Pj\nzbzhBzm82zsy3FHYzk3sa5vgBCTjdaINhEwYxXkCgYBgzzAGy9wEm4hL558BXed9\nrKF/wuINfHXgmogqCFxQYoso4+hdnzGj0GBSPksArbC7A6HMH/2XasaWezt51V6w\n8FPxas0UFZGJfbD+hVEzee7ton0gR94i9yd1pRvNfLZ3hrFQ6VeMVVi3ATcINqPq\nml5tdwwr83pR3hRiMW2ktA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api-service-account@intrepid-league-466105-r1.iam.gserviceaccount.com",
+  "client_id": "114230373626538998581",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api-service-account%40intrepid-league-466105-r1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
