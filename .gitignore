@@ -22,4 +22,5 @@ yarn-error.log
 /.vscode
 /.zed
 /venv
-/scripts.ocr-dg-google-vision
+/scripts.ocr-dg-google-vision.json
+/scripts.ocr-dg-google-vision-exp.json
